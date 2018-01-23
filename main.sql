@@ -1,1 +1,2 @@
-select * from some_table
+select * 
+from some_table
